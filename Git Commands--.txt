@@ -3,6 +3,7 @@ Git Commands--
 
 
 1,git init
+<<<<<<< HEAD
 2,git add README.md
 3,git commit -m "first commit"
 4,git branch -M main
@@ -10,3 +11,9 @@ Git Commands--
 6,git push -u origin main
 
 hello
+=======
+2,git add .
+3,git remote add origin https://github.com/abhishek01git/html_demo.git
+4,git commit -m "first commit"
+6,git push -u origin master
+>>>>>>> 347aa15eec862a35ebf74cdd11a4e8550f955c30
